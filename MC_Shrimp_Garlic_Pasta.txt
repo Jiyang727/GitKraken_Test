@@ -2,7 +2,7 @@ Garlic Pasta
 
 Menu Class: Main Course
 
-Edit by Jiyang
+Edit by Jiyang Li
 
 Description:
 This is simple yet irresistable. You can serve a large portion as a main dish at dinner parties.
@@ -42,4 +42,4 @@ Great Wine Pairings
 1. Sauvignon Blanc
 2. Cianti Classico
 
-This is not emergency.
+This is not very emergency.
